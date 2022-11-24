@@ -1,7 +1,6 @@
 # Hello-HTML
-# **Hello World**
-Esto es una descripcion para M08
-![image](https://user-images.githubusercontent.com/118682267/203819396-84417e87-1c1b-4687-ba94-b5768eb27a8a.png)
+Aquesta es la meva pagina web, amb una foto meva, per a la activitat A2.1.1 de M08
+(![image](https://user-images.githubusercontent.com/119003625/203860332-ccc8179a-74aa-410c-8335-3ce9fde96d7f.png))
 |Instrucciones|Descargar                  |Modificar|
 |-------------| --------                  |---------|
 |Paso 1       |Copiar enlace              |Abrir proyecto         |
